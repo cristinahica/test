@@ -1,2 +1,5 @@
+
 third line
 content to append
+
+totally different content
